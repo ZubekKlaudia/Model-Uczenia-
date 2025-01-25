@@ -1,2 +1,2 @@
 # Model-Uczenia-
-Rozpoznawanie ras psów 
+Zastosowanie głębokiego uczenia maszynowego do rozpoznawania ras psów na podstawie zdjęć
